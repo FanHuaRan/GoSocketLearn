@@ -1,2 +1,2 @@
 # GoSocketLearn
-Go,Tcp,Socket,Lock.sync Practice
+Go语言的Socket练习，采用Tcp长连接
